@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.mariuszgromada.math:MathParser.org-mXparser:4.4.22">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/MathParser.org-mXparser-4.4.2.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mariuszgromada.math/MathParser.org-mXparser/4.4.2/45c0757fa12804c34c9d21f4c549a06ef3f72ae2" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/MathParser.org-mXparser-4.4.2-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mariuszgromada.math/MathParser.org-mXparser/4.4.2/45c0757fa12804c34c9d21f4c549a06ef3f72ae2" recursive="false" />
+  </library>
+</component>
